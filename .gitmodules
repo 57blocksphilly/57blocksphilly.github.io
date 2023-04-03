@@ -1,0 +1,6 @@
+[submodule "themes/spectral"]
+	path = themes/spectral
+	url = git@github.com:57blocksphilly/spectral.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = git@github.com:57blocksphilly/hugo-PaperMod.git

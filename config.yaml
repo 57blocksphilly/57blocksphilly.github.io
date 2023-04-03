@@ -1,0 +1,49 @@
+#baseURL: 'http://10.30.132.14:1313/'
+baseURL: '/'
+languageCode: 'en-us'
+title: '57+ Blocks'
+#theme: 'PaperMod'
+theme: 'spectral'
+
+
+#relativeURLs: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  custom_scss: 'scss/styles.scss'
+
+  social:
+    # this array format is for the nightfall theme, comment out if not using
+    -
+      key: 0
+      name: 'email'
+      url: 'mailto:57blocksphilly@gmail.com'
+  menu:
+    main:
+      -
+       url: '/'
+       title: 'Home'
+      -
+       url: '/about/'
+       title: 'About'
+
+
+
+languages:
+  en:
+    languageName: 'English'
+    weight: 1
+    menu:
+      main:
+        -
+         url: '/'
+         title: 'Home'
+         name: 'Home'
+        -
+         url: '/about/'
+         title: 'About'
+         name: 'About'
+
