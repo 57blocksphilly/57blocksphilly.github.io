@@ -25,12 +25,19 @@ params:
     main:
       -
        url: '/'
-       title: 'Home'
+       title: '57+ Blocks'
       -
-       url: '/about/'
-       title: 'About'
-
-
+       url: '/who-we-are/'
+       title: 'Who We Are'
+      -
+       url: '/news-and-press/'
+       title: 'News & Press'
+      -
+       url: '/about-the-blocks/'
+       title: 'About the Blocks'
+      -
+       url: '/contact/'
+       title: 'Contact Us'
 
 languages:
   en:
@@ -43,7 +50,19 @@ languages:
          title: 'Home'
          name: 'Home'
         -
-         url: '/about/'
-         title: 'About'
-         name: 'About'
+         url: '/who-we-are/'
+         title: 'Who We Are'
+         name: 'Who We Are'
+        -
+         url: '/news-and-press/'
+         title: 'News & Press'
+         name: 'News & Press'
+        -
+         url: '/about-the-blocks/'
+         title: 'About the Blocks'
+         name: 'About the Blocks'
+        -
+         url: '/contact/'
+         title: 'Contact Us'
+         name: 'Contact Us'
 
