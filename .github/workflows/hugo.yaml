@@ -35,7 +35,7 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v3
       - name: Build docker images
-        run: docker build -t website < Dockerfile
+        run: docker build -t website .
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
