@@ -1,6 +1,8 @@
 ---
-title: Contact
+title: 'Contact'
 type: section
+images:
+  - '/images/default-open-graph-cover-16-9.jpg'
 ---
 
 The 57+ Blocks Coalition also includes a multigenerational collective of

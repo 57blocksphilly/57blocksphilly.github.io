@@ -1,6 +1,8 @@
 ---
 title: Who We Are
 type: section
+images:
+  - '/images/default-open-graph-cover-16-9.jpg'
 ---
 
 ## Community Advisory Board

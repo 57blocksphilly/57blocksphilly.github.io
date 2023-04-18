@@ -1,6 +1,8 @@
 ---
 title: About the Blocks
 type: section
+images:
+  - '/images/default-open-graph-cover-16-9.jpg'
 ---
 
 By looking at where gun violence is concentrated in the city, we can also look

@@ -1,6 +1,8 @@
 ---
-title: News & Press
+title: 'News & Press'
 type: section
+images:
+  - '/images/default-open-graph-cover-16-9.jpg'
 ---
 
 <div class='js-anchor-target-blank'>
