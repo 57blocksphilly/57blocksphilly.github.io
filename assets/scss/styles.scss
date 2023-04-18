@@ -76,3 +76,10 @@ body.PaperMod {
   overflow-y: auto;
   overflow-x: hidden;
 }
+
+.about-the-blocks-img {
+  img {
+    display: block;
+    max-width: 100vw;
+  }
+}

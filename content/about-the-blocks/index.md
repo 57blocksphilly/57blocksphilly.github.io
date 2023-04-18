@@ -26,14 +26,14 @@ the blocks by electoral district.
 
 </section>
 
-<section class="wrapper">
+<section class="wrapper about-the-blocks-img">
   <div class="row aln-center">
-    <div class="col-6">
+    <div>
       <img src="/images/57-blocks-inquirer.png" />
     </div>
   </div>
   <div class="row aln-center">
-    <div class="col-6">
+    <div>
       <img src="/images/77-blocks-2015-2023.png" />
     </div>
   </div>
