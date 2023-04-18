@@ -10,19 +10,17 @@ the blocks by electoral district.
 <section class='js-anchor-target-blank'>
 
 * Shapefiles
-  * [57_blocks_points.csv][57_blocks_points.csv]
-  * [57_blocks_points.zip][57_blocks_points.zip]
-  * [57_blocks_quarter_mile_buffers.zip][57_blocks_quarter_mile_buffers.zip]
-* Blocks by District
-  * tk
+  * 57 Blocks, points [csv][57_blocks_points.csv]
+  * 57 Blocks, points [shapefiles][57_blocks_points.zip]
+  * 57 Blocks, quarter mile buffers [shapefiles][57_blocks_quarter_mile_buffers.zip]
 * Fact Sheets
   * [57 Blocks Fact Sheet][57-blocks-fact-sheet]
   * [57 Blocks Coalition - Block Overview Handout][57-blocks-coalition-block-overview-handout]
 * Maps
-  * [council_districts_with_57_blocks_table.pdf][council_districts_with_57_blocks_table.pdf]
-  * [senate_districts_with_57_blocks_table.pdf][senate_districts_with_57_blocks_table.pdf]
-  * [house_districts_with_57_blocks_table.pdf][house_districts_with_57_blocks_table.pdf]
-  * [congressional_districts_with_57_blocks_table.pdf][congressional_districts_with_57_blocks_table.pdf]
+  * City Council Districts with 57 Blocks [pdf][council_districts_with_57_blocks_table.pdf]
+  * Senate Districts with 57 Blocks [pdf][senate_districts_with_57_blocks_table.pdf]
+  * House Districts with 57 Blocks [pdf][house_districts_with_57_blocks_table.pdf]
+  * Congressional Districts with 57 Blocks [pdf][congressional_districts_with_57_blocks_table.pdf]
 
 </section>
 
