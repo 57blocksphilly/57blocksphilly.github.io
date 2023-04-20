@@ -48,4 +48,3 @@ the blocks by electoral district.
 [senate_districts_with_57_blocks_table.pdf]: /data/senate_districts_with_57_blocks_table.pdf
 [house_districts_with_57_blocks_table.pdf]: /data/house_districts_with_57_blocks_table.pdf
 [congressional_districts_with_57_blocks_table.pdf]: /data/congressional_districts_with_57_blocks_table.pdf
-

@@ -7,15 +7,15 @@ images:
 
 <div class='js-anchor-target-blank'>
 
-|  |  |
+|     |   |
 |---------|------|
-|3/29/2023| [WURD Radio, The Source][wurd-20230329]
-|2/27/2023| [Philadelphia Inquirer][inquirer-20230227]
-|1/15/2023| [WURD Radio, ecoWURD Magazine][wurd-20230115]
-|1/13/2023| [KYW Newsradio][kyw-newsradio-20230113]
-|12/19/2022| [WHYY][whyy-20221219]
-|10/25/2022| FOX 29 ([video][fox29-20221025-video], [web][fox29-20221025-web])
-|9/16/2021| Philadelphia Inquirer, ["Intersections of Injustice"][inquirer-20210916]
+|September 16th, 2021| [Intersections of Injustice][inquirer-20210916]
+|October 25th, 2022| [New Anti-violence Initiative Focuses On 57 Philadelphia Blocks Where Crime Rates Are Highest][fox29-20221025-web]
+|December 19th, 2022| [57 Blocks in Philly Are Prone to Shootings, Community Groups are Mobilizing to Curb the Gun Violence][whyy-20221219]
+|January 13th, 2023 | [Bridging Philly on KYW News Radio][kyw-newsradio-20230113]
+|January 15th, 2023 | [The 57+ Blocks Coalition on WURD Radio][wurd-20230115]
+|February 27, 2023 | [Activist Rally to Stop Gun Violence After a Shooting That Left 7 People Wounded in Strawberry Mansion][inquirer-20230227]
+|March 29th, 2023 | [The Source with Joann Bell & Rita Hill on WURD Radio][wurd-20230329]
 
 </div>
 

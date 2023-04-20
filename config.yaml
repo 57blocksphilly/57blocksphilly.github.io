@@ -1,7 +1,7 @@
 #baseURL: 'http://10.30.132.14:1313/'
 baseURL: '/'
 languageCode: 'en-us'
-title: '57+ Blocks'
+title: '57+ Blocks Coalition'
 #theme: 'PaperMod'
 theme: 'spectral'
 
@@ -20,13 +20,13 @@ params:
     # this array format is for the nightfall theme, comment out if not using
     -
       key: 0
-      name: 'email'
+      name: '57BlocksPhilly@gmail.com'
       url: 'mailto:57blocksphilly@gmail.com'
   menu:
     main:
       -
        url: '/'
-       title: '57+ Blocks'
+       title: '57+ Blocks Coalition'
       -
        url: '/who-we-are/'
        title: 'Who We Are'
