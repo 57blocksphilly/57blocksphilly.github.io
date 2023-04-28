@@ -5,6 +5,21 @@ images:
   - '/images/default-open-graph-cover-16-9.jpg'
 ---
 
+<script>
+
+window.addEventListener('load', () => {
+  const initFrame = window.fiftysevenblocks.insertFrame(
+    'https://www.google.com/maps/d/embed?mid=19H38-OkkQi2PexyM_y1nagE-mYCMuhc&ehbc=2E312F')
+  initFrame()
+  window.addEventListener('resize',
+    window.fiftysevenblocks.resizeFrame('#iframe-container iframe'))
+})
+
+</script>
+
+<div id='iframe-container'>
+</div>
+
 By looking at where gun violence is concentrated in the city, we can also look
 at other overlapping geographical factors. Download the files below to explore
 the blocks by electoral district.
@@ -24,19 +39,6 @@ the blocks by electoral district.
   * House Districts with 57 Blocks [pdf][house_districts_with_57_blocks_table.pdf]
   * Congressional Districts with 57 Blocks [pdf][congressional_districts_with_57_blocks_table.pdf]
 
-</section>
-
-<section class="wrapper about-the-blocks-img">
-  <div class="row aln-center">
-    <div>
-      <img src="/images/57-blocks-inquirer.png" />
-    </div>
-  </div>
-  <div class="row aln-center">
-    <div>
-      <img src="/images/77-blocks-2015-2023.png" />
-    </div>
-  </div>
 </section>
 
 [57_blocks_points.csv]: /data/57_blocks_points.csv
