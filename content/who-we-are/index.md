@@ -3,7 +3,9 @@ title: Who We Are
 type: section
 images:
   - '/images/default-open-graph-cover-16-9.jpg'
+subheader_image: '/images/Community%20Session%20Summer%202022_2.png'
 ---
+
 
 ## Community Advisory Board
 
@@ -24,6 +26,8 @@ consists of community leaders and gun violence prevention advocates, including:
 * Shane Claiborne, Raw Tools
 * Wali Smith, Philadelphia Anti-Drug/Anti-Violence Network (PAAN)
 
+---
+
 ## Philadelphia District Attorney's Office Support
 
 The following members of the DAO and the District Attorney’s Transparency
@@ -41,6 +45,7 @@ Analytics (DATA) Lab have supported the 57+ Blocks Coalition, including:
 * Tyrell Mann-Barnes, DATA Lab
 * Wes Weaver, DATA Lab
 
+---
 
 ## Member Organizations
 
@@ -112,3 +117,15 @@ but are not limited to:
 * Why Not Prosper
 * Working Families Party
 * Woodland Ave Community Outreach
+
+---
+
+<div class="final">
+  <div class="row aln-center">
+    <div class="col-10 col-12-small">
+This work takes a village, and we welcome you to join us! If your organization
+is interested in joining the 57+ Blocks Coalition, please email
+<a href="mailto:57blocksphilly@gmail.com">57blocksphilly@gmail.com</a>.
+    </div>
+  </div>
+</div>

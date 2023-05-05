@@ -16,6 +16,8 @@ images:
 |January 15th, 2023 | [The 57+ Blocks Coalition on WURD Radio][wurd-20230115]
 |February 27, 2023 | [Activist Rally to Stop Gun Violence After a Shooting That Left 7 People Wounded in Strawberry Mansion][inquirer-20230227]
 |March 29th, 2023 | [The Source with Joann Bell & Rita Hill on WURD Radio][wurd-20230329]
+|May 1st, 2023 | [A Group of Black Community Advocates Criticized a Recent Inquirer Investigation as Racist and Harmful][inquirer-20230501]
+|May 2nd, 2023 | [Wake Up with WURD – Reuben Jones Interview][wurd-20230502]
 
 </div>
 
@@ -28,3 +30,5 @@ images:
 [fox29-20221025-video]: https://www.youtube.com/watch?v=8EGpWUSR7zM
 [fox29-20221025-web]: https://www.fox29.com/news/new-anti-violence-initiative-focuses-on-57-blocks-where-crime-rates-are-highest
 [inquirer-20210916]: https://www.inquirer.com/news/a/philadelphia-shootings-homicides-redlining-kensington-20210916.html
+[inquirer-20230501]: https://www.inquirer.com/news/philadelphia-antiviolence-grant-money-criticism-black-advocates-20230501.html
+[wurd-20230502]: https://soundcloud.com/onwurd/wake-up-with-wurd-522023-reuben-jones

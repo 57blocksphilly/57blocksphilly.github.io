@@ -62,10 +62,49 @@ body.PaperMod {
 }
 
 .secondary-front {
-  background-color: black;
+  background-color: #131313;
+}
+
+.front-page {
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+  }
 
   h3 {
-    text-align: center;
+    font-size: 1.8rem;
+  }
+}
+
+.pillars-front {
+  background-color: #ECECEC;
+  color: #131313;
+
+  h3 {
+    color: black;
+  }
+
+}
+
+.red-border-bottom {
+  border-bottom: 0.02rem solid #B50717;
+  padding-bottom: 2.2rem;
+}
+
+.pillar {
+  @extend .red-border-bottom;
+  margin-bottom: 2.2rem;
+}
+
+.overview {
+  .emphasis {
+    font-weight: bold;
+  }
+}
+
+.image-front {
+  img {
+    max-width: 100%;
+    opacity: 0.8;
   }
 }
 
@@ -81,5 +120,18 @@ body.PaperMod {
   img {
     display: block;
     max-width: 90vw;
+  }
+}
+
+.single-layout.title-who-we-are {
+  .sub-header {
+    background-color: #fff;
+    img {
+      max-width: 100%;
+    }
+  }
+
+  hr {
+    @extend .red-border-bottom;
   }
 }
