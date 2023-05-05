@@ -5,6 +5,9 @@ images:
   - '/images/default-open-graph-cover-16-9.jpg'
 ---
 
+The following News & Press are articles, radio interviews, and other forms of
+media relating to the 57+ Blocks Coalition and relevant efforts.
+
 <div class='js-anchor-target-blank'>
 
 |     |   |
