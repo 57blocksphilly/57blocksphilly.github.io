@@ -24,5 +24,7 @@ window.addEventListener('load', () => {
 
 </script>
 
-<div id='iframe-container' class='iframe-embed'>
+<div class='iframe-embed'>
+  <div id='iframe-container'>
+  </div>
 </div>

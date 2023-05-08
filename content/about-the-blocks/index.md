@@ -5,6 +5,11 @@ images:
   - '/images/default-open-graph-cover-16-9.jpg'
 ---
 
+<div class='iframe-embed'>
+  <div id='iframe-container'>
+  </div>
+</div>
+
 <script>
 
 window.addEventListener('load', () => {
@@ -16,9 +21,6 @@ window.addEventListener('load', () => {
 })
 
 </script>
-
-<div id='iframe-container'>
-</div>
 
 By looking at where gun violence is concentrated in the city, we can also look
 at other overlapping geographical factors. Download the files below to explore

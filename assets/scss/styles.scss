@@ -108,12 +108,24 @@ body.PaperMod {
   }
 }
 
-.iframe-embed {
-  min-width: 100%;
-  min-height: 100vh;
-  border: none;
-  overflow-y: auto;
-  overflow-x: hidden;
+.single-layout.title-about-the-blocks {
+  .iframe-embed {
+    width: 100%;
+    height: 50vh;
+    border: none;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+}
+
+.single-layout.title-contact {
+  .iframe-embed {
+    width: 100%;
+    height: 100vh;
+    border: none;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
 }
 
 .about-the-blocks-img {
