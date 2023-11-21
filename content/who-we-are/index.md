@@ -24,6 +24,10 @@ consists of community leaders and gun violence prevention advocates, including:
 * Reverend Robert Collier, Black Clergy
 * Shane Claiborne, Raw Tools
 * Wali Smith, Philadelphia Anti-Drug/Anti-Violence Network (PAAN)
+* Reverend Gregory Holston, Senior Policy Advisor District Attorney’s Office
+  [Co-Facilitator]
+* Dr. Oren Gur, Director of District Attorney’s Transparency Analytics (DATA
+  Lab) [Co-Facilitator]
 
 ---
 
@@ -97,18 +101,6 @@ but are not limited to:
 * Why Not Prosper
 * Working Families Party
 * Woodland Ave Community Outreach
-
----
-
-## Philadelphia District Attorney’s Office Support
-
-This project is supported by the District Attorney’s Office and works in direct
-collaboration with  the District Attorney’s Transparency Analytics (DATA) Lab
-unit:
-
-* Reverend Gregory Holston, Senior Policy Advisor DAO
-* Dr. Oren Gur, Director of District Attorney’s Transparency Analytics (DATA
-  Lab)
 
 ---
 
