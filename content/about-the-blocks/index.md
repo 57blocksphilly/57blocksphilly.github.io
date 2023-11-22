@@ -23,20 +23,9 @@ window.addEventListener('load', () => {
 </script>
 
 By looking at where gun violence is concentrated in the city, we can also look
-at other overlapping geographical factors. Download the files below to explore
-the blocks by electoral district.
+at other overlapping geographical factors.
 
 <section class='js-anchor-target-blank'>
-
-* Shapefiles
-  * 57 Blocks, points [csv][57_blocks_points.csv]
-  * 57 Blocks, points [shapefiles][57_blocks_points.zip]
-  * 57 Blocks, quarter mile buffers [shapefiles][57_blocks_quarter_mile_buffers.zip]
-* Maps
-  * City Council Districts with 57 Blocks [pdf][council_districts_with_57_blocks_table.pdf]
-  * Senate Districts with 57 Blocks [pdf][senate_districts_with_57_blocks_table.pdf]
-  * House Districts with 57 Blocks [pdf][house_districts_with_57_blocks_table.pdf]
-  * Congressional Districts with 57 Blocks [pdf][congressional_districts_with_57_blocks_table.pdf]
 
 We encourage you to review the information below and share the following
 handouts with your network and within your community.

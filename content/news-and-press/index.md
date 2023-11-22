@@ -21,6 +21,9 @@ media relating to the 57+ Blocks Coalition and relevant efforts.
 |March 29th, 2023 | [The Source with Joann Bell & Rita Hill on WURD Radio][wurd-20230329]
 |May 1st, 2023 | [A Group of Black Community Advocates Criticized a Recent Inquirer Investigation as Racist and Harmful][inquirer-20230501]
 |May 2nd, 2023 | [Wake Up with WURD – Reuben Jones Interview][wurd-20230502]
+|November 9th, 2023| [Philadelphians hope a cleaner city will reduce gun violence. Will Oh or Parker make it a reality?][whyy-20231109]
+|November 21st, 2023| [The Source with Thera Martin – Rev. Gregory Holston Interview][wurd-20231121]
+|November 22nd, 2023| [Thera Martin on WWDB with Rev. Cean James and Rev. Gregory Holston][wwdb-20231122]
 
 </div>
 
@@ -35,3 +38,6 @@ media relating to the 57+ Blocks Coalition and relevant efforts.
 [inquirer-20210916]: https://www.inquirer.com/news/a/philadelphia-shootings-homicides-redlining-kensington-20210916.html
 [inquirer-20230501]: https://www.inquirer.com/news/philadelphia-antiviolence-grant-money-criticism-black-advocates-20230501.html
 [wurd-20230502]: https://soundcloud.com/onwurd/wake-up-with-wurd-522023-reuben-jones
+[whyy-20231109]: https://whyy.org/articles/philadelphia-mayor-election-gun-violence-prevention-blight-cherelle-parker-david-oh/
+[wurd-20231121]: https://www.facebook.com/ForWURD/videos/810403520775205/?vh=e&mibextid=K8Wfd
+[wwdb-20231122]: https://www.facebook.com/100063602257260/videos/allegheny-west/727275035457772/
