@@ -24,10 +24,11 @@ consists of community leaders and gun violence prevention advocates, including:
 * Reverend Robert Collier, Black Clergy
 * Shane Claiborne, Raw Tools
 * Wali Smith, Philadelphia Anti-Drug/Anti-Violence Network (PAAN)
+* Tyrell Mann-Barnes, Research Project Manager, District Attorney’s Transparency Analytics (DATA) Lab
 * Reverend Gregory Holston, Senior Policy Advisor District Attorney’s Office
   [Co-Facilitator]
-* Dr. Oren Gur, Director of District Attorney’s Transparency Analytics (DATA
-  Lab) [Co-Facilitator]
+* Dr. Oren Gur, Director of District Attorney’s Transparency Analytics (DATA)
+  Lab [Co-Facilitator]
 
 ---
 
