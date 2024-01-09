@@ -26,8 +26,28 @@ images:
   </div>
 </section>
 
+
+
 <section class='image-front'>
-  <img src='/images/57+ Blocks Group Photo.png' />
+  <div class="glide">
+    <div class="glide__track" data-glide-el="track">
+      <ul class="glide__slides">
+        <li class="glide__slide">
+          <img src='/images/57+ Blocks Group Photo.png' />
+        </li>
+        <li class="glide__slide">
+          <img src='/images/img_3807.jpg' />
+        </li>
+        <li class="glide__slide">
+          <img src='/images/img_4141.jpg' />
+        </li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class='image-front'>
+  <img src='/images/2024-01-15-mlk-day-of-service-flyer.jpg' />
 </section>
 
 <section class="secondary-front wrapper front-page">
@@ -152,3 +172,19 @@ images:
     </div>
   </div>
 </section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.2.0/glide.min.js">
+</script>
+
+<script>
+  new Glide('.glide', {
+    gap: 0,
+    autoplay: 3800,
+    rewind: true,
+    startAt: 0,
+    perView: 1,
+    type: 'slider',
+    hoverpause: false
+  }).mount()
+</script>
+
