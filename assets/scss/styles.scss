@@ -104,7 +104,16 @@ body.PaperMod {
 .image-front {
   img {
     max-width: 100%;
+    min-width: 100%;
     opacity: 0.8;
+  }
+
+  .glide {
+    li {
+      padding: 0;
+      margin: 0;
+
+    }
   }
 }
 

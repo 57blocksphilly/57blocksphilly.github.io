@@ -24,6 +24,7 @@ media relating to the 57+ Blocks Coalition and relevant efforts.
 |November 9th, 2023| [Philadelphians hope a cleaner city will reduce gun violence. Will Oh or Parker make it a reality?][whyy-20231109]
 |November 21st, 2023| [The Source with Thera Martin – Rev. Gregory Holston Interview][wurd-20231121]
 |November 22nd, 2023| [Thera Martin on WWDB with Rev. Cean James and Rev. Gregory Holston][wwdb-20231122]
+|December 22nd, 2023| [Philly residents patrolled Kensington for 36 nights this fall. Now they want the city to back the model. ][kensington-voice-20231222]
 
 </div>
 
@@ -41,3 +42,4 @@ media relating to the 57+ Blocks Coalition and relevant efforts.
 [whyy-20231109]: https://whyy.org/articles/philadelphia-mayor-election-gun-violence-prevention-blight-cherelle-parker-david-oh/
 [wurd-20231121]: https://www.facebook.com/ForWURD/videos/810403520775205/?vh=e&mibextid=K8Wfd
 [wwdb-20231122]: https://www.facebook.com/100063602257260/videos/allegheny-west/727275035457772/
+[kensington-voice-20231222]: https://www.kensingtonvoice.com/en/philly-residents-patrolled-kensington-for-36-nights-this-fall-now-they-want-the-city-to-back-the-model/
